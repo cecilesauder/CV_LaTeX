@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  17 FEB 2019 14:35
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  17 FEB 2019 14:43
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1454,19 +1454,19 @@ Underfull \hbox (badness 10000) in paragraph at lines 77--154
  []
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 160.
+(Font)              scaled to size 10.0pt on input line 162.
 Requested font "[ClearSans-Italic.ttf]/OT:script=latn;language=DFLT;mapping=tex
 -text;" at 10.0pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-I
 talic.ttf
 
-Overfull \hbox (0.27678pt too wide) in paragraph at lines 159--161
+Overfull \hbox (0.27678pt too wide) in paragraph at lines 161--163
 \TU/ClearSans(0)/m/it/10 Méthodes d’analyse des données fonctionnelles appliqué
 es aux dynamiques de crois-
  []
 
 
-Overfull \hbox (1.83621pt too wide) in paragraph at lines 177--179
+Overfull \hbox (1.83621pt too wide) in paragraph at lines 179--181
 []\TU/ClearSans(0)/m/it/10 StatistiX et le problème de la potion magique[]\TU/C
 learSans(0)/m/n/10 , 1er prix du Festival Sciences en cour[t],
  []
@@ -1474,11 +1474,11 @@ learSans(0)/m/n/10 , 1er prix du Festival Sciences en cour[t],
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 181.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 181.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 183.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 183.
  (./Sauder_CV_fr.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 181.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 181.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 183.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 183.
 Package rerunfilecheck Info: File `Sauder_CV_fr.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
