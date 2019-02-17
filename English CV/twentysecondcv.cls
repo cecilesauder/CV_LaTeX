@@ -198,7 +198,7 @@
     
      %------------------------------------------------
     
-    {\large {9 ans d'expérience}}\\
+    {\large {9 years of experience}}\\
 
     %------------------------------------------------
     
@@ -263,13 +263,13 @@
 
     %------------------------------------------------
 
-    \profilesection{Formation}{2.5cm} 
+    \profilesection{Education}{2.5cm} 
     
       \education
       
     %------------------------------------------------  
      \vspace{3mm}
-    \profilesection{Compétences}{1.5cm}
+    \profilesection{Skills}{1.5cm}
     
     \skills
   
@@ -277,7 +277,7 @@
         
       \vspace{2mm}
        
-	 {\large \textbf{Programmation}} 
+	 {\large \textbf{Programming}} 
 
 		 \programming
 		 
@@ -285,20 +285,21 @@
      %------------------------------------------------
 		
 		\vspace{2mm} 
-		{\large \textbf{Langues}}
+		{\large \textbf{Languages}}
     
 	  \renewcommand{\arraystretch}{1}
 	  \begin{tabular}{p{1.3cm} @{\hskip 0.5cm}p{5cm}}
 	  
-    \large{Anglais} & \includegraphics[scale=0.40]{img/4stars.png} \\
-    \large{Espagnol} & \includegraphics[scale=0.40]{img/4stars.png}
+	  \large{French} & \includegraphics[scale=0.40]{img/5stars.png} \\
+    \large{English} & \includegraphics[scale=0.40]{img/4stars.png} \\
+    \large{Spanish} & \includegraphics[scale=0.40]{img/4stars.png}
     
     \end{tabular}  
          
     %------------------------------------------------
 		
 
-		{\large \textbf{Loisirs}}   
+		{\large \textbf{Hobbies}}   
 		
     \includegraphics[scale=0.30]{img/airplane.png}
     \includegraphics[scale=0.30]{img/globe.png}
