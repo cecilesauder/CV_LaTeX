@@ -263,13 +263,13 @@
 
     %------------------------------------------------
 
-    \profilesection{Education}{2.5cm} 
+    \profilesection{Education}{2.8cm} 
     
       \education
       
     %------------------------------------------------  
      \vspace{3mm}
-    \profilesection{Skills}{1.5cm}
+    \profilesection{Skills}{4.3cm}
     
     \skills
   
@@ -305,7 +305,7 @@
     \includegraphics[scale=0.30]{img/globe.png}
     \includegraphics[scale=0.30]{img/pc.png}
     \includegraphics[scale=0.30]{img/bricolage.png}
-    \includegraphics[scale=0.30]{img/baby_emoji.png}
+    \href{https://lexie.netlify.com/}{\includegraphics[scale=0.30]{img/baby_emoji.png}}
     \href{https://rladies.org/}{\includegraphics[scale=0.10]{img/Rladies.png}}
 
   \end{textblock}
