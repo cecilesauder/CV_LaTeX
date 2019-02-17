@@ -198,11 +198,11 @@
     
      %------------------------------------------------
     
-    {\large {8 ans d'expérience}}\\
+    {\large {9 ans d'expérience}}\\
 
     %------------------------------------------------
     
-    {\large \textbf{\aboutme}}
+    %{\large \textbf{\aboutme}}
     
     \end{tabular}
     %------------------------------------------------
@@ -233,21 +233,31 @@
               \end{array}
               $} 
             & \href{mailto:\cvmail}{\cvmail} \\}
+            
+        \ifthenelse{\equal{\cvsite}{}}{}{
+            {$
+              \begin{array}{l}
+              \hspace{2.5mm} \huge \textnormal{\faEdit}
+              \end{array}
+              $}
+            & \href{https://cecilesauder.netlify.com/}{\cvsite} \\}
       
        \ifthenelse{\equal{\cvlinkedin}{}}{}{
             {$
               \begin{array}{l}
-              \hspace{3mm} \huge \textnormal{\textcolor{linkedin}{\faLinkedin}}
+              \hspace{3mm} \huge \href{https://www.linkedin.com/in/\cvlinkedin}{\textnormal{\textcolor{linkedin}{\faLinkedin}}}
+              \hspace{1mm} \href{https://www.github.com/\cvgithub}{\textnormal{\faGithub}}
+              \hspace{1mm} \href{https://twitter.com/\cvgithub}{\textnormal{\textcolor{linkedin}{\faTwitter}}}
               \end{array}
-              $} & \href{https://www.linkedin.com/in/\cvlinkedin}{\cvlinkedin} \\
+              $} & \hspace{13mm} {\cvlinkedin} \\
             }  
-        \ifthenelse{\equal{\cvgithub}{}}{}{
-            {$
-              \begin{array}{l}
-              \hspace{3mm} \huge \textnormal{\faGithub}
-              \end{array}
-              $} & \href{https://www.github.com/\cvgithub}{\cvgithub} \\
-            }   
+        % \ifthenelse{\equal{\cvgithub}{}}{}{
+        %     {$
+        %       \begin{array}{l}
+        %       \hspace{3mm} \huge \textnormal{\faGithub}
+        %       \end{array}
+        %       $} & \href{https://www.github.com/\cvgithub}{\cvgithub} \\
+        %     }   
             
     \end{tabular}
 
@@ -294,7 +304,9 @@
     \includegraphics[scale=0.30]{img/globe.png}
     \includegraphics[scale=0.30]{img/pc.png}
     \includegraphics[scale=0.30]{img/bricolage.png}
-    \includegraphics[scale=0.30]{img/baby_emoji.png}       
+    \includegraphics[scale=0.30]{img/baby_emoji.png}
+    \href{https://rladies.org/}{\includegraphics[scale=0.10]{img/Rladies.png}}
+
   \end{textblock}
 }
 

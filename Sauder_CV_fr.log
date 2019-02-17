@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  16 FEB 2019 15:47
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  17 FEB 2019 14:02
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1261,12 +1261,6 @@ Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=DFLT;mapping=te
 x-text;" at 12.0pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-R
 egular.ttf
-LaTeX Font Info:    Font shape `TU/ClearSans(0)/bx/n' will be
-(Font)              scaled to size 12.0pt on input line 69.
-Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
-ext;" at 12.0pt
- -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-B
-old.ttf
 
 LaTeX Font Warning: Command \Huge invalid in math mode on input line 69.
 
@@ -1313,7 +1307,7 @@ Overfull \hbox (9.40044pt too wide) in paragraph at lines 69--69
 LaTeX Font Warning: Command \huge invalid in math mode on input line 69.
 
 
-Overfull \hbox (7.86021pt too wide) in paragraph at lines 69--69
+Overfull \hbox (9.40044pt too wide) in paragraph at lines 69--69
 []$[]$| 
  []
 
@@ -1321,7 +1315,7 @@ Overfull \hbox (7.86021pt too wide) in paragraph at lines 69--69
 LaTeX Font Warning: Command \huge invalid in math mode on input line 69.
 
 
-Overfull \hbox (7.86021pt too wide) in paragraph at lines 69--69
+Overfull \hbox (50.58646pt too wide) in paragraph at lines 69--69
 []$[]$| 
  []
 
@@ -1355,6 +1349,12 @@ LaTeX Font Info:    Font shape `TU/ClearSans(0)/bx/n' will be
 (Font)              scaled to size 8.0pt on input line 69.
 Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;" at 8.0pt
+ -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-B
+old.ttf
+LaTeX Font Info:    Font shape `TU/ClearSans(0)/bx/n' will be
+(Font)              scaled to size 12.0pt on input line 69.
+Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
+ext;" at 12.0pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-B
 old.ttf
 
@@ -1438,6 +1438,8 @@ File: img/bricolage.png Graphic file (type bmp)
 <img/bricolage.png>
 File: img/baby_emoji.png Graphic file (type bmp)
 <img/baby_emoji.png>
+File: img/Rladies.png Graphic file (type bmp)
+<img/Rladies.png>
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
 (Font)              scaled to size 17.28pt on input line 75.
 Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=DFLT;mapping=te
@@ -1447,36 +1449,24 @@ egular.ttf
 Requested font "[fonts/segoeuib.ttf]/OT:script=latn;language=DFLT;" at 17.28pt
  -> ./fonts/segoeuib.ttf
 
-Underfull \hbox (badness 1509) in paragraph at lines 137--137
-[]\TU/ClearSans(0)/m/n/10 Méthodes statistiques d’analyse des données fonctionn
-elles ap-
- []
-
-
-Underfull \hbox (badness 1681) in paragraph at lines 137--137
-\TU/ClearSans(0)/m/n/10 Enseignement (TD et TP de statistiques), communication 
-(con-
- []
-
-
-Underfull \hbox (badness 10000) in paragraph at lines 77--150
+Underfull \hbox (badness 10000) in paragraph at lines 77--145
 
  []
 
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/it' will be
-(Font)              scaled to size 10.0pt on input line 156.
+(Font)              scaled to size 10.0pt on input line 151.
 Requested font "[ClearSans-Italic.ttf]/OT:script=latn;language=DFLT;mapping=tex
 -text;" at 10.0pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-I
 talic.ttf
 
-Overfull \hbox (0.27678pt too wide) in paragraph at lines 155--157
+Overfull \hbox (0.27678pt too wide) in paragraph at lines 150--152
 \TU/ClearSans(0)/m/it/10 Méthodes d’analyse des données fonctionnelles appliqué
 es aux dynamiques de crois-
  []
 
 
-Overfull \hbox (1.83621pt too wide) in paragraph at lines 171--173
+Overfull \hbox (1.83621pt too wide) in paragraph at lines 166--168
 []\TU/ClearSans(0)/m/it/10 StatistiX et le problème de la potion magique[]\TU/C
 learSans(0)/m/n/10 , 1er prix du Festival Sciences en cour[t],
  []
@@ -1484,19 +1474,19 @@ learSans(0)/m/n/10 , 1er prix du Festival Sciences en cour[t],
 [1
 
 ]
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 175.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 175.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 170.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 170.
  (./Sauder_CV_fr.aux)
-Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 175.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 175.
+Package atveryend Info: Empty hook `AtVeryEndDocument' on input line 170.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 170.
 Package rerunfilecheck Info: File `Sauder_CV_fr.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 35497 strings out of 494944
- 686359 string characters out of 6177658
- 813279 words of memory out of 5000000
- 38895 multiletter control sequences out of 15000+600000
+ 35501 strings out of 494944
+ 686428 string characters out of 6177658
+ 813441 words of memory out of 5000000
+ 38898 multiletter control sequences out of 15000+600000
  535690 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  61i,17n,75p,802b,793s stack positions out of 5000i,500n,10000p,200000b,80000s
