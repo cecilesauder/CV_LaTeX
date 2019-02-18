@@ -2,7 +2,7 @@
 
 I use the template made by Harshavardhan Gadgil with only little changes to make my resume so I let his following Readme. 
 
-I edit and compil it with [RStudio](https://www.rstudio.com/products/RStudio/).
+I edit and compile it with [RStudio](https://www.rstudio.com/products/RStudio/).
 
 You can find the original [here](https://github.com/opensorceror/Data-Engineer-Resume-LaTeX), with the Readme explaining how to use the template.
 
