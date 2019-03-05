@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  17 FEB 2019 14:43
+This is XeTeX, Version 3.14159265-2.6-0.99999 (TeX Live 2018) (preloaded format=xelatex 2018.11.25)  5 MAR 2019 16:07
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -1255,12 +1255,19 @@ Requested font "[ClearSans-Bold.ttf]/OT:script=latn;language=DFLT;mapping=tex-t
 ext;" at 14.4pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-B
 old.ttf
+File: img/Rlogo.png Graphic file (type bmp)
+<img/Rlogo.png>
 LaTeX Font Info:    Font shape `TU/ClearSans(0)/m/n' will be
 (Font)              scaled to size 12.0pt on input line 69.
 Requested font "[ClearSans-Regular.ttf]/OT:script=latn;language=DFLT;mapping=te
 x-text;" at 12.0pt
  -> /home/cecile/.TinyTeX/texmf-dist/fonts/truetype/intel/clearsans/ClearSans-R
 egular.ttf
+
+Overfull \hbox (6.38129pt too wide) in paragraph at lines 69--69
+[][] 
+ []
+
 
 LaTeX Font Warning: Command \Huge invalid in math mode on input line 69.
 
@@ -1483,10 +1490,10 @@ Package rerunfilecheck Info: File `Sauder_CV_fr.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E.
  ) 
 Here is how much of TeX's memory you used:
- 35501 strings out of 494944
- 686428 string characters out of 6177658
- 814441 words of memory out of 5000000
- 38898 multiletter control sequences out of 15000+600000
+ 35505 strings out of 494944
+ 686489 string characters out of 6177658
+ 813441 words of memory out of 5000000
+ 38901 multiletter control sequences out of 15000+600000
  535690 words of font info for 66 fonts, out of 8000000 for 9000
  14 hyphenation exceptions out of 8191
  61i,17n,75p,802b,793s stack positions out of 5000i,500n,10000p,200000b,80000s
